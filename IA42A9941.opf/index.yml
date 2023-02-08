@@ -1,0 +1,11 @@
+id: 120fd167b8cf40719d6802631c48b7e9
+annotation_type: index
+revision: '00001'
+annotations:
+  95b3e2be2c474a67b1b44d8ba60ed031:
+    base: 8884.txt
+    Chapters:
+    - title: ''
+      span:
+        start: 0
+        end: 2621
